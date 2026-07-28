@@ -28,7 +28,7 @@ COPY . .
 
 # --- LIMPIEZA DE RUTAS (SOLUCIÓN FINAL) ---
 # 1. Movemos el contenido de 'php/' a la raíz principal
-RUN cp -r php/* . 2>/dev/null || true
+RUN cp -a php/. .
 
 # 2. ¡BORRAMOS la carpeta 'php' original!
 # Esto evita que entres por error a /php/index.php y tengas errores de rutas.
