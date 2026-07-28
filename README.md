@@ -2,6 +2,14 @@
 
 Aplicación web para la gestión comercial y operativa de Dulce Osadía, una pyme chilena dedicada a la venta de chocolates artesanales.
 
+Credenciales de Prueba (Para Reclutadores)
+
+Para evaluar el sistema de administración interno, la gestión de insumos y el planificador de producción, puedes acceder al panel de control utilizando las siguientes credenciales de administrador:
+
+- Ruta de acceso: `/php/inicioadmin.php` (o desde el enlace de login en la navegación)
+- Usuario: `admin`
+- Contraseña: `admin`
+
 El proyecto combina dos áreas de negocio en una sola plataforma:
 
 - Canal e-commerce para clientes: catálogo, detalle de productos, carrito, checkout, pago en línea y consulta de compras.
