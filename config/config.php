@@ -29,7 +29,7 @@ if (file_exists($_SERVER['DOCUMENT_ROOT'] . '/data.env')) {
 define("CURRENCY", "CLP");
 define("KEY_TOKEN", "ZXC.qwe-876**");
 define("MONEDA", "$");
-define("SITE_URL", "https://dulce-osadia.onrender.com");
+define("SITE_URL", "https://dulce-osadia.cristian-lavin.dev/");
 
 // 6. Configuración de Correo (Actualizado a Brevo)
 // Si Render tiene variables, las usa. Si no, usa estos valores por defecto.
