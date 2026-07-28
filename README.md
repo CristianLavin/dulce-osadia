@@ -10,6 +10,13 @@ Para evaluar el sistema de administración interno, la gestión de insumos y el 
 - Usuario: `admin`
 - Contraseña: `admin`
 
+Para la realización de la compra mediante transbank se utilizaron las siguientes credenciales:
+- VISA: 4051 8856 0044 6623
+- CVV: 123
+- cualquier fecha de expiración
+- Rut:11.111.111-1
+-  Contraseña: 123
+
 El proyecto combina dos áreas de negocio en una sola plataforma:
 
 - Canal e-commerce para clientes: catálogo, detalle de productos, carrito, checkout, pago en línea y consulta de compras.
